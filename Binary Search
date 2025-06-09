@@ -1,0 +1,14 @@
+median of two sorted array
+
+concept
+--------
+if we want to find number > given number;
+if(nums[mid]>target)
+{
+  end=mid-1;
+}
+else
+{
+  start=mid+1;
+}
+and return start for this
