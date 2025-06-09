@@ -1,8 +1,8 @@
-median of two sorted array
+median of two sorted array (IMP)
 
 concept
 --------
-if we want to find number > given number;
+if we want to find number > given number(target);
 if(nums[mid]>target)
 {
   end=mid-1;
@@ -12,3 +12,17 @@ else
   start=mid+1;
 }
 and return start for this
+
+case 2:
+when number < target
+
+if(nums[mid]<target)
+{
+ start=mid+1;
+}
+else
+{
+end=mid-1;
+}
+return end;
+
