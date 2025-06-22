@@ -55,4 +55,4 @@ calculateSubSet(i+1,currSum,len,nums,arr);
 }
 
 int targetSum
-
+QUESTION : https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
