@@ -57,3 +57,4 @@ calculateSubSet(i+1,currSum,len,nums,arr);
 int targetSum
 QUESTION : https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 QUESTION :https://leetcode.com/problems/find-peak-element/submissions/1674084248/
+QUESTION : https://leetcode.com/problems/split-array-largest-sum/description/ do this question after DP(one more time)
